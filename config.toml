@@ -1,0 +1,28 @@
+[theme]
+base = "light"
+
+# ── 라이트 모드 ──────────────────────────────────────────
+[theme.light]
+primaryColor        = "#2563eb"
+backgroundColor     = "#f5f7fa"
+secondaryBackgroundColor = "#eef2f7"
+textColor           = "#0f172a"
+
+[theme.light.sidebar]
+primaryColor        = "#2563eb"
+backgroundColor     = "#ffffff"
+secondaryBackgroundColor = "#f0f4f8"
+textColor           = "#0f172a"
+
+# ── 다크 모드 ────────────────────────────────────────────
+[theme.dark]
+primaryColor        = "#60a5fa"
+backgroundColor     = "#0f1117"
+secondaryBackgroundColor = "#1e2636"
+textColor           = "#f1f5f9"
+
+[theme.dark.sidebar]
+primaryColor        = "#60a5fa"
+backgroundColor     = "#161d2e"
+secondaryBackgroundColor = "#242f45"
+textColor           = "#f1f5f9"
